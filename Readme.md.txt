@@ -1,7 +1,0 @@
--The first thing was created the main and all the branches are from the main.
--the first branch is Task1 "Heroic problem solving Day Using C++" .
--the second branch is task2"Heroic Hardware challanges" and this branch contains text file with two links for  Video Explanation of this tasks.
--the third branch is task3"Gotham's minefield" and this branch contains text file with five links for tinkercad.
--the fourth branch is task4 "overcoming the tempest" and this branch contains text file with three links for google colab.
--the fifth branch is task5 "communicate" and this branch contains text file with two links.
--the sixth branch is task6"Batmobile Motor control" and this branch contains text file with link for google drive
